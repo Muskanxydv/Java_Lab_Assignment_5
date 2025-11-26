@@ -1,0 +1,10 @@
+101|Ankit|ankit@gmail.com|B.Tech|85.5|B
+102|Riya|riya@gmail.com|M.Tech|91.0|A
+103|Karan|karan@gmail.com|BCA|76.2|C
+104|Priya|priya@gmail.com|B.Sc|68.0|D
+105|Yuvraj|yuvaraj@gmail.com|M.Sc|69.0|D
+106|Akshaya|akshaya@gmail.com|B.Com|78.0|C
+107|Sidharth|sidharth@gmail.com|B.Agri|98.0|A
+108|Arti|arti@gmail.com|B.Pharma|48.0|F
+109|Anju|anju@gmail.com|Hotel Management|99.0|A
+110|Sarthak|sarthak@gmail.com|B.Tech|95.0|A
